@@ -4,6 +4,9 @@ Imagine Enterprise year 2
 # Coding standard
 https://docs.popekim.com/ko/coding-standards/csharp
 
+# Conventional Commits
+https://www.conventionalcommits.org/en/v1.0.0/
+
 # 🛠 **Git Workflow Guide (Visual C++ in Visual Studio)**
 
 This workflow explains how to manage issues, branches, commits, and pull requests when developing **C++ projects in Visual Studio** using GitHub.
